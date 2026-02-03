@@ -15,7 +15,14 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 
+<img width="1449" height="593" alt="image" src="https://github.com/user-attachments/assets/8ba1463a-6810-4a91-9505-799344ddbfd4" />
+
+
 ## Output:
+
+<img width="1326" height="266" alt="image" src="https://github.com/user-attachments/assets/750123cc-6315-4186-914c-f869a38f2d0f" />
+
+
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
+Thus the solutions for the linear equations are successfully solved using python program..
 
