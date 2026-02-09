@@ -21,11 +21,13 @@ End the program
 
 #Program to find the solution for the given linear equations.
 
-import numpy as np
+```
+ import numpy as np
 A = [[1,-3],[3,1]]
 B = np.array([0,10])
 C  = np.linalg.solve(A,B)
 print(C)
+```
 
 
 ## Output:
